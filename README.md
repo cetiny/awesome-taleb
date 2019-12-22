@@ -12,19 +12,19 @@
 
 - [Websites](#websites)
 - [Books](#books)
-- [Social Media](social-media)
-- [Book Recommendations](book-recommendations)
+- [Social Media](#social-media)
+- [Book Recommendations](#book-recommendations)
   - [Biographies & Memoirs](#biographies-and-memoirs)
   - [Business & Money](#business-and-money)
   - [Computers & Technology](#computers-and-technology)
   - [Health, Fitness & Dieting](#health-fitness-and-dieting)
   - [History](#history)
-  - [Politics, Humanities & Social Sciences](politics-humanities-and-social-sciences)
-  - [Science & Math](science-and-math)
-  - [Others](others)
-- [Podcasts](podcasts)
-- [Videos](videos)
-- [Miscellaneous](miscellaneous)
+  - [Politics, Humanities & Social Sciences](#politics-humanities-and-social-sciences)
+  - [Science & Math](#science-and-math)
+  - [Others](#others)
+- [Podcasts](#podcasts)
+- [Videos](#videos)
+- [Miscellaneous](#miscellaneous)
 - [Disclaimer](#disclaimer)
 - [Contribution](#contribution)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -328,7 +328,7 @@ The links in the [books](#books) and [book recommendations](#book-recommendation
 
 ## Contribution
 
-Contributions welcome! You can create a new [pull request](https://github.com/cetiny/awesome-taleb/pulls) or submit an [issue](https://github.com/cetiny/awesome-taleb/issues). Please read the [Contributing Guidelines](contributing.md) first.
+Contributions welcome! You can create a new [pull request](https://github.com/cetiny/awesome-taleb/pulls) or submit an [issue](https://github.com/cetiny/awesome-taleb/issues). Please read the [Contributing Guidelines](https://github.com/cetiny/awesome-taleb/blob/master/CONTRIBUTING.md) first.
 
 ## Other Awesome Lists
 
@@ -337,6 +337,6 @@ Contributions welcome! You can create a new [pull request](https://github.com/ce
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](licence.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/cetiny/awesome-taleb/blob/master/LICENSE.md)
 
-Content of this repository is licensed under the [MIT license](licence.md).
+Content of this repository is licensed under the [MIT license](https://github.com/cetiny/awesome-taleb/blob/master/LICENSE.md).
