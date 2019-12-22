@@ -36,14 +36,14 @@
 
 - [Fooled by Randomness](https://www.fooledbyrandomness.com/
   ) - Nassim Nicholas Taleb's Official Home Page
-- [Nassim Nicholas Taleb](https://medium.com/@nntaleb
-  ) - Medium - Nassim Nicholas Taleb's Official Medium Page
+- [Nassim Nicholas Taleb - Medium](https://medium.com/@nntaleb
+  ) - Nassim Nicholas Taleb's Official Medium Page
 - [Real World Risk Institute](https://realworldrisk.com/
   ) - An institute led by Nassim Taleb. The aim is to build the principles and methodology for real-world rigor in decision making and codify a clear-cut way to approach risk.
 - [Nassim Taleb News Site](https://nassimtaleb.org/
   ) - Unofficial news site about Nassim Nicholas Taleb
 - [Nassim Taleb Reddit AMA](https://www.reddit.com/r/IAmA/comments/1aoi0s/iam_nassim_taleb_author_of_antifragile_ama/
-  ) (2013) - Question-and-answer interactive interview on Ask Me Anything subreddit
+  ) - Question-and-answer interactive interview on Ask Me Anything subreddit
 - [Nassim Nicholas Taleb - Goodreads](https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb
   ) - Nassim Nicholas Taleb's Goodreads Page
 - [The Black Swan Man Website](http://www.blackswanman.com/
