@@ -237,6 +237,8 @@
 
 > List of podcasts where Nassim Nicholas Taleb was interviewed
 
+- [SophieCo. Visionaries: Nassim Taleb - Covid-19 brought socialism to America](https://soundcloud.com/rttv/sophieco-visionaries-nassim-taleb-covid-19-brought-socialism-to-america) - (2020/08)
+- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Pandemic](https://www.econtalk.org/nassim-nicholas-taleb-on-the-pandemic/) - (2020/07)
 - [The Beirut Banyan EPISODE 81: Nassim Nicholas Taleb & Local Solutions for Lebanon](https://soundcloud.com/thebeirutbanyan/episode-81-nassim-nicholas-taleb-local-structures-for-lebanon) - (2019/11)
 - [HumanCurrent Podcast: Probability & Adaptation. An Interview With Gad Saad & Nassim Nicholas Taleb](http://www.human-current.com/episode-102-probability-adaptation-with-gad-saad-nassim-nicholas-taleb) - (2018/08)
 - [The B&N Podcast: Nassim Nicholas Taleb](https://www.barnesandnoble.com/review/nassim-nicholas-taleb-podcast?spklr=1644776244%7C138%7CPodcast%7C12438%7CBNBuzz%7CTWITTER%7C1644776249) - (2018/07)
@@ -250,14 +252,33 @@
 - [James Altucher Show: EP.45 – Nassim Taleb: Why You Should Embrace Uncertainty](https://nassimtaleb.org/2014/09/podcast-nassim-taleb-james-altucher-show/) - (2014/09)
 - [EconTalk with Russ Roberts: Taleb on Skin in the Game](https://www.econtalk.org/taleb-on-skin-in-the-game/) - (2013/09)
 - [Reason Podcasts: Nassim Taleb Talks Antifragile, Libertarianism, and Capitalism's Genius for Failure](https://soundcloud.com/reasonmag/nassim-taleb-talks-antifragile-libertarianism-and-capitalisms-genius-for-failure) - (2013/01)
+- [EconTalk with Russ Roberts: Taleb on Antifragility](https://www.econtalk.org/taleb-on-antifragility/) - (2012-01)
 - [Free Library of Philadelphia: Nassim Nicholas Taleb | Antifragile: Things That Gain from Disorder](https://libwww.freelibrary.org/podcast/episode/1045) - (2012/11)
 - [The Wharton School: Nassim Taleb on Living with Black Swans](https://knowledge.wharton.upenn.edu/article/nassim-taleb-on-living-with-black-swans/) - (2011/04)
+- [EconTalk with Russ Roberts: Taleb on Black Swans, Fragility, and Mistakes](https://www.econtalk.org/taleb-on-black-swans-fragility-and-mistakes/) - (2010-05)
+- [EconTalk with Russ Roberts: Taleb on the Financial Crisis](https://www.econtalk.org/taleb-on-the-financial-crisis/) - (2009/03)
 - [The Long Now Foundation: Nassim Nicholas Taleb - The Future Has Always Been Crazier Than We Thought](https://soundcloud.com/longnow/the-future-has-always-been-crazier-than-we-thought?in=longgamma/sets/nnt) - (2008/02)
+- [EconTalk with Russ Roberts: Taleb on Black Swans](https://www.econtalk.org/taleb-on-black-swans/) - (2007/04)
 
 ## Videos
 
 > List of talks, lectures, and interviews where you can watch Nassim Nicholas Taleb
 
+- [Bloomberg: 'Black Swan' Investor Nassim Taleb on Covid Misconceptions, Fed Policy, Inflation](https://www.youtube.com/watch?v=ePmSa-n7kBA) - (2020/09)
+- [Cavaleria Com: The antidote for chaos! - Nassim Taleb Interview](https://www.youtube.com/watch?v=57wRZCaetY0) - (2020/09)
+- [SophieCo. Visionaries: Nassim Taleb - Covid-19 brought socialism to America](https://www.youtube.com/watch?v=k5PyWLFj1UM) - (2020/08)
+- [Social Discovery Ventures: Dmitry Volkov Talk with Nassim Taleb](https://www.youtube.com/watch?v=0qrOVCzZtbo) - (2020/08)
+- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Pandemic](https://www.youtube.com/watch?v=CyOsUbK8PiE) - (2020/07)
+- [New England Complex Systems Institute: EndCoronavirus org Town Hall with Nassim Taleb & Yaneer Bar-Yam on May 15, 2020](https://www.youtube.com/watch?v=2Al2UXwowvs) - (2020/05)
+- [ET NOW: Nassim Nicholas Taleb says, 'Likely to see the emergence of more and more viruses'](https://www.youtube.com/watch?v=43y0q0DH-Uc) - (2020/05)
+- [Tail risk of contagious diseases: a conversation with Nassim Nicholas Taleb](https://www.youtube.com/watch?v=sr0YIcp-zi0) - (2020/05)
+- [CNBC: 'Black Swan' author Nassim Taleb on warnings over systemic risks from global pandemics](https://www.youtube.com/watch?v=kixi_Ob4hCM) - (2020/04)
+- [Nassim Taleb Interview on Pandemics (2016)](https://www.youtube.com/watch?v=ytKwkOTAxaw) - (2020/04)
+- [Nassim Taleb Teaches Trading - Convex Theory](https://www.youtube.com/watch?v=LBzIz2y6Sws) - (2020/04)
+- [Bloomberg: Nassim Taleb Says 'White Swan' Coronavirus Pandemic Was Preventable](https://www.youtube.com/watch?v=lBjVTm7F1lQ) - (2020/03)
+- [Bloomberg: Taleb Blames Government, Corporations for Not Being Prepeared for Pandemic](https://www.youtube.com/watch?v=Xv1m1X8IuAc) - (2020/03)
+- [Darwin College Lecture Series: Extreme events and how to live with them by Nassim Nicholas Taleb](https://www.youtube.com/watch?v=IsHNb-4IxDY) - (2020/02)
+- [Gillian Tett & Nassim Taleb at Greenwich Economic Forum](https://www.youtube.com/watch?v=2_8OGMzIpOU) - (2020/02)
 - [Nassim Nicholas Taleb speaks on "How India Can Achieve Anti-fragile Growth" | IEC 2019](https://www.youtube.com/watch?v=q0mjrNDe73E) - (2019/12)
 - [Why Nassim Taleb is still betting on crypto](https://www.youtube.com/watch?v=DUnclMrvLjQ) - (2019/12)
 - [Localism and its Application to Lebanon](https://www.youtube.com/watch?v=un9i-5pwOUA) - (2019/11)
@@ -283,7 +304,7 @@
 - [Problems with probability](https://www.youtube.com/watch?v=_Sy7NPVFx7k) - (2017/09)
 - [Bloomberg: Nassim Nicholas Taleb Sees Worse Tail Risks Than in 2007](https://www.youtube.com/watch?v=ASD1LJQzj5o) - (2017/03)
 - [India Today Conclave: A Session With Dr. Nassim Nicholas](https://www.youtube.com/watch?v=nhb3-sePQ7g) - (2017/02)
-- [Of Black Swans and Intellectual Fallacies](https://youtu.be/2_OjqsglRhU?t=48) - (2017/01)
+- [Jaipur Literature Festival: Of Black Swans and Intellectual Fallacies](https://youtu.be/2_OjqsglRhU?t=48) - (2017/01)
 - [RiskMindsTV: Gerd Gigerenzer & Nassim Nicholas Taleb: The dichotomy of behavioural economics](https://youtu.be/4VSqfRnxvV8?t=2108) - (2016/12)
 - [Nutanix .NEXT 2016 Europe - Closing Keynote [Nassim N. Taleb]](https://www.youtube.com/watch?v=vmjoRMULLeQ) - (2016/11)
 - [Taleb Delivers Commencement Speech at American University of Beirut 2016](https://www.youtube.com/watch?v=Fzmr3urk28I) - (2016/06)
@@ -315,6 +336,7 @@
 - [The RSA: David Cameron in conversation with Nassim Taleb](https://www.youtube.com/watch?v=QQAVDg4yqUU) - (2010/02)
 - [Alan Grayson and Nassim Taleb Talk Punishment](https://www.youtube.com/watch?v=QV814EimkkU) - (2009/09)
 - [Reflection on a Crisis (John Brockman, Nassim Taleb, Daniel Kahneman)](https://youtu.be/LjGl6bZF6zs?t=401) - (2009/02)
+- [The Long Now Foundation: Nassim Nicholas Taleb - The Future Has Always Been Crazier Than We Thought](https://www.youtube.com/watch?v=Qxvgm17COj4) - (2008/02)
 - [Nassim Nicholas Taleb - Early Interview](https://www.youtube.com/watch?v=0YaUIPbw-5w) - (2001/03)
 
 ## Miscellaneous
