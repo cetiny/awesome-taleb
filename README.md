@@ -87,8 +87,7 @@
 
 ## Book Recommendations
 
-> List of book recommendations by Nassim Nicholas Taleb. Nassim Taleb leaves [reviews](https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_d_gw_tr?ie=UTF12
-> ) for his favorite books on Amazon. This list includes the books, which he has given 5-stars. Nassim Taleb used to have a list of books he read more than once on his personal website. The list is not available anymore, but it can be accessed via [the Way Back Machine](http://web.archive.org/web/20100726061952/http://www.fooledbyrandomness.com/favbooks.html).
+> List of book recommendations by Nassim Nicholas Taleb. Nassim Taleb leaves reviews for his favorite books on Amazon. This list includes the books, which he has given 5-stars. Nassim Taleb used to have a list of books he read more than once on his personal website. The list is not available anymore, but it can be accessed via [the Way Back Machine](http://web.archive.org/web/20100726061952/http://www.fooledbyrandomness.com/favbooks.html).
 
 ### Biographies and Memoirs
 
