@@ -82,7 +82,7 @@
   ) - Twitter  account sharing comics based on Nassim Nicholas Taleb's books
 - [Nassim Nicholas Taleb Bot (@nntalebbot)](https://twitter.com/nntalebbot
   ) - Unofficial bot that  scrapes highlights from @nntaleb’s Incerto collection
-- [N N Taleb's Probability Moocs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww
+- [N N Taleb's Probability Questions](https://www.youtube.com/@nntalebproba
   ) - These are mini  MOOCs explaining technical points in Taleb's INCERTO (Antifragile, The Black  Swan, etc.). They are split into "Technical Notes" and  "Tutorials"
 
 ## Book Recommendations
@@ -239,10 +239,10 @@
 - [SophieCo. Visionaries: Nassim Taleb - Covid-19 brought socialism to America](https://soundcloud.com/rttv/sophieco-visionaries-nassim-taleb-covid-19-brought-socialism-to-america) - (2020/08)
 - [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Pandemic](https://www.econtalk.org/nassim-nicholas-taleb-on-the-pandemic/) - (2020/07)
 - [The Beirut Banyan EPISODE 81: Nassim Nicholas Taleb & Local Solutions for Lebanon](https://soundcloud.com/thebeirutbanyan/episode-81-nassim-nicholas-taleb-local-structures-for-lebanon) - (2019/11)
-- [HumanCurrent Podcast: Probability & Adaptation. An Interview With Gad Saad & Nassim Nicholas Taleb](http://www.human-current.com/episode-102-probability-adaptation-with-gad-saad-nassim-nicholas-taleb) - (2018/08)
-- [The B&N Podcast: Nassim Nicholas Taleb](https://www.barnesandnoble.com/review/nassim-nicholas-taleb-podcast?spklr=1644776244%7C138%7CPodcast%7C12438%7CBNBuzz%7CTWITTER%7C1644776249) - (2018/07)
-- [Likeville Podcast: A Celebration of What Works](https://overcast.fm/+Ql0aaznGk) - (2018/07)
-- [Ralph Nader Radio Hour: Skin in the Game](https://ralphnaderradiohour.com/skin-in-the-game/) - (2018/06)
+- [HumanCurrent Podcast: Probability & Adaptation. An Interview With Gad Saad & Nassim Nicholas Taleb](https://nassimtaleb.org/2018/08/podcast-probability-adaptation/) - (2018/08)
+- [The B&N Podcast: Nassim Nicholas Taleb](https://nassimtaleb.org/2018/09/podcast-barnes-and-noble/) - (2018/07)
+- [Likeville Podcast: A Celebration of What Works](https://nassimtaleb.org/2018/07/podcast-celebration-of-what-works-likeville/) - (2018/07)
+- [Ralph Nader Radio Hour: Skin in the Game](https://www.ralphnaderradiohour.com/p/skin-in-the-game-c7e) - (2018/06)
 - [Art of Manliness Podcast: Nassim Nicholas Taleb Interview](https://www.artofmanliness.com/articles/taleb-interview-skin-in-the-game/) - (2018/06)
 - [Conversations with Tyler: Nassim Nicholas Taleb on Self-Education and Doing the Math](https://soundcloud.com/conversationswithtyler/nassim-taleb-cowen-caplan) - (2018/05)
 - [EconTalk with Russ Roberts: Nassim Nicholas Taleb on Rationality, Risk, and Skin in the Game](https://www.econtalk.org/nassim-nicholas-taleb-on-rationality-risk-and-skin-in-the-game/) - (2018/05)
@@ -265,15 +265,12 @@
 
 - [Bloomberg: 'Black Swan' Investor Nassim Taleb on Covid Misconceptions, Fed Policy, Inflation](https://www.youtube.com/watch?v=ePmSa-n7kBA) - (2020/09)
 - [Cavaleria Com: The antidote for chaos! - Nassim Taleb Interview](https://www.youtube.com/watch?v=57wRZCaetY0) - (2020/09)
-- [SophieCo. Visionaries: Nassim Taleb - Covid-19 brought socialism to America](https://www.youtube.com/watch?v=k5PyWLFj1UM) - (2020/08)
-- [Social Discovery Ventures: Dmitry Volkov Talk with Nassim Taleb](https://www.youtube.com/watch?v=0qrOVCzZtbo) - (2020/08)
 - [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Pandemic](https://www.youtube.com/watch?v=CyOsUbK8PiE) - (2020/07)
 - [New England Complex Systems Institute: EndCoronavirus org Town Hall with Nassim Taleb & Yaneer Bar-Yam on May 15, 2020](https://www.youtube.com/watch?v=2Al2UXwowvs) - (2020/05)
 - [ET NOW: Nassim Nicholas Taleb says, 'Likely to see the emergence of more and more viruses'](https://www.youtube.com/watch?v=43y0q0DH-Uc) - (2020/05)
 - [Tail risk of contagious diseases: a conversation with Nassim Nicholas Taleb](https://www.youtube.com/watch?v=sr0YIcp-zi0) - (2020/05)
 - [CNBC: 'Black Swan' author Nassim Taleb on warnings over systemic risks from global pandemics](https://www.youtube.com/watch?v=kixi_Ob4hCM) - (2020/04)
 - [Nassim Taleb Interview on Pandemics (2016)](https://www.youtube.com/watch?v=ytKwkOTAxaw) - (2020/04)
-- [Nassim Taleb Teaches Trading - Convex Theory](https://www.youtube.com/watch?v=LBzIz2y6Sws) - (2020/04)
 - [Bloomberg: Nassim Taleb Says 'White Swan' Coronavirus Pandemic Was Preventable](https://www.youtube.com/watch?v=lBjVTm7F1lQ) - (2020/03)
 - [Bloomberg: Taleb Blames Government, Corporations for Not Being Prepeared for Pandemic](https://www.youtube.com/watch?v=Xv1m1X8IuAc) - (2020/03)
 - [Darwin College Lecture Series: Extreme events and how to live with them by Nassim Nicholas Taleb](https://www.youtube.com/watch?v=IsHNb-4IxDY) - (2020/02)
@@ -284,7 +281,6 @@
 - [Studio Axess Idéspecial 2019 - Nassim Nicholas Taleb](https://www.youtube.com/watch?v=5CGKdmsPmXY) - (2019/11)
 - [EFN: Nassim Nicholas Taleb on Skin in the Game](https://www.youtube.com/watch?v=a3YOMe4PnKE) - (2019/10)
 - [Nassim Taleb Talk at a Conference in Brazil](https://youtu.be/y3LwEdNqu_U?t=295) - (2019/09)
-- [Nassim Taleb Lecture: Don't be fooled! | The truth about science technology education and wealth](https://www.youtube.com/watch?v=xjVJBigSyMw) - (2019/09)
 - [2035 University: Nassim Taleb and Dmitry Peskov. Debate about the risk-engineering, WorldSkills Conference](https://www.youtube.com/watch?v=XFryKZEGzVI&t=1010s) - (2019/08)
 - [Nassim Taleb at the 2018 Prime Quadrant Conference](https://www.youtube.com/watch?v=QX3k-u9_PeA) - (2019/04)
 - [Nassim Nicholas Taleb at ICCS 2018](https://www.youtube.com/watch?v=tD3JqtLEF1A) - (2019/02)
