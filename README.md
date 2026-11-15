@@ -271,7 +271,7 @@
 - [ET NOW: Nassim Nicholas Taleb says, 'Likely to see the emergence of more and more viruses'](https://www.youtube.com/watch?v=43y0q0DH-Uc) - (2020-05)
 - [Tail risk of contagious diseases: a conversation with Nassim Nicholas Taleb](https://www.youtube.com/watch?v=sr0YIcp-zi0) - (2020-05)
 - [CNBC: 'Black Swan' author Nassim Taleb on warnings over systemic risks from global pandemics](https://www.youtube.com/watch?v=kixi_Ob4hCM) - (2020-04)
-- [Nassim Taleb Interview on Pandemics (2016)](https://www.youtube.com/watch?v=ytKwkOTAxaw) - (2020-04)
+- [Nassim Taleb Interview on Pandemics](https://www.youtube.com/watch?v=ytKwkOTAxaw) - (2020-04)
 - [Bloomberg: Nassim Taleb Says 'White Swan' Coronavirus Pandemic Was Preventable](https://www.youtube.com/watch?v=lBjVTm7F1lQ) - (2020-03)
 - [Bloomberg: Taleb Blames Government, Corporations for Not Being Prepeared for Pandemic](https://www.youtube.com/watch?v=Xv1m1X8IuAc) - (2020-03)
 - [Darwin College Lecture Series: Extreme events and how to live with them by Nassim Nicholas Taleb](https://www.youtube.com/watch?v=IsHNb-4IxDY) - (2020-02)
