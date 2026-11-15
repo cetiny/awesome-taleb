@@ -2,7 +2,7 @@
 
 > A curated list of awesome things about Nassim Nicholas Taleb
 
-Unofficial fan-made list. Not affiliated with or endorsed by Nassim Nicholas Taleb.
+An independent, unofficial list, maintained by a fan. It is not affiliated with, authorized by or endorsed by Nassim Nicholas Taleb.
 
 Updated: November 2026
 
