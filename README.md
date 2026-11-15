@@ -4,7 +4,7 @@
 
 Independent and unofficial. Not affiliated with or endorsed by Nassim Nicholas Taleb.
 
-Updated December 2026
+Updated: November 2026
 
 > **What's new in 1.5**
 >
