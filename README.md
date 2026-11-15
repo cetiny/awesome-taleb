@@ -2,9 +2,21 @@
 
 > A curated list of awesome things about Nassim Nicholas Taleb
 
+Independent and unofficial. Not affiliated with or endorsed by Nassim Nicholas Taleb.
+
+Updated: November 2026
+
+> **What's new in 1.5**
+>
+> - 11 new podcasts and 33 new videos, 2020 to 2026
+> - Added Taleb's Substack, his arXiv author page and the Medium lecture text
+> - *Statistical Consequences of Fat Tails* now links to arXiv (3rd edition) and print
+> - Dead links fixed, dates unified to YYYY-MM, profile links moved to x.com
+> - The Probability Questions channel moved from Social Media to Websites
+
 <p align="left">
-  <a href="https://twitter.com/talebwisdom" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/talebwisdom.svg?logo=twitter">
+  <a href="https://x.com/talebwisdom" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/talebwisdom.svg?logo=x">
   </a>
 </p>
 
@@ -21,6 +33,7 @@
   - [History](#history)
   - [Politics, Humanities & Social Sciences](#politics-humanities-and-social-sciences)
   - [Science & Math](#science-and-math)
+  - [Literature & Fiction](#literature-and-fiction)
   - [Others](#others)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
@@ -36,7 +49,7 @@
 
 - [Fooled by Randomness](https://www.fooledbyrandomness.com/
   ) - Nassim Nicholas Taleb's Official Home Page
-- [Nassim Nicholas Taleb - Medium](https://medium.com/@nntaleb
+- [Nassim Nicholas Taleb - Medium](https://nntaleb.medium.com/
   ) - Nassim Nicholas Taleb's Official Medium Page
 - [Real World Risk Institute](https://realworldrisk.com/
   ) - An institute led by Nassim Taleb. The aim is to build the principles and methodology for real-world rigor in decision making and codify a clear-cut way to approach risk.
@@ -52,6 +65,10 @@
   ) - Wikipedia article on Nassim Nicholas Taleb
 - [Nassim Nicholas Taleb - NYU](https://engineering.nyu.edu/faculty/nassim-nicholas-taleb
   ) - Nassim Nicholas Taleb's NYU Faculty Page
+- [N N Taleb's Probability Questions](https://www.youtube.com/@nntalebproba) - Mini MOOCs explaining technical points in Taleb's Incerto, split into "Technical Notes" and "Tutorials"
+- [Nassim Nicholas Taleb - Substack](https://nntaleb.substack.com) - Taleb's Substack with new essays
+- [Nassim Nicholas Taleb - arXiv](https://arxiv.org/a/taleb_n_1) - Author listing of Taleb's papers on arXiv
+- [The World in Which We Live Now](https://nntaleb.medium.com/the-world-in-which-we-live-7255aad3e18c) - Lecture text on Medium (2025-09)
 
 ## Books
 
@@ -61,29 +78,28 @@
 - [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://amzn.to/34Lp7fz) - (2001)
 - [The Black Swan: Second Edition: The Impact of the Highly Improbable](https://amzn.to/2PEQQdq) - (2007)
 - [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://amzn.to/2Z9zKHR) - (2010)
-- [Antifragile: Things That Gain from Disorder](https://amzn.to/34M1KT6) - (2014)
+- [Antifragile: Things That Gain from Disorder](https://amzn.to/34M1KT6) - (2012)
 - [Incerto: Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile](https://amzn.to/2Z72pND) - (2016)
 - [Skin in the Game: Hidden Asymmetries in Daily Life](https://amzn.to/35HbwqD) - (2018)
 - [Incerto (Deluxe Edition): Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile, Skin in the Game](https://amzn.to/2sNYedi) - (2019)
-- [The Technical Incerto - Vol 1: The Statistical Consequences of Fat Tails](https://www.academia.edu/37221402/STATISTICAL_CONSEQUENCES_OF_FAT_TAILS_TECHNICAL_INCERTO_COLLECTION_) - (2019)
-- [The Technical Incerto - Vol 2: Fragility, Risk, and Convexity](https://www.dropbox.com/s/hslpj8xcqtszmvv/Technical%20Incerto%20Vol%202.pdf?dl=0) - (2020)
+- [The Technical Incerto - Vol 1: Statistical Consequences of Fat Tails (Revised Edition, print)](https://link.amazon/B0dMAXttk) - (2023)
+- [The Technical Incerto - Vol 1: Statistical Consequences of Fat Tails (3rd revised edition, free on arXiv)](https://arxiv.org/abs/2001.10488) - (2025)
+- [The Technical Incerto - Vol 2: Probability, Risk, and Convexity (in progress)](https://x.com/nntaleb/status/1974816353933570212) - (in progress)
 
 ## Social Media
 
 > list of official and unofficial social media accounts
 
-- [Nassim Nicholas Taleb - Twitter (@nntaleb)](https://twitter.com/nntaleb
-  ) - Nassim Nicholas  Taleb's Official Twitter Page
+- [Nassim Nicholas Taleb - X (@nntaleb)](https://x.com/nntaleb
+  ) - Nassim Nicholas  Taleb's Official X Page
 - [Nassim Nicholas Taleb - Facebook (@nntaleb)](https://www.facebook.com/nntaleb/
   ) - Nassim Nicholas  Taleb's Official Facebook Page
-- [Nassim Nicholas Taleb's Wisdom (@TalebWisdom)](https://twitter.com/talebwisdom
-  ) - Unofficial Twitter  account sharing Nassim Nicholas Taleb's wisdom from his books, interviews, and tweets
-- [The Black Swan Man (@black_swan_man)](https://twitter.com/black_swan_man
-  ) - Twitter  account sharing comics based on Nassim Nicholas Taleb's books
-- [Nassim Nicholas Taleb Bot (@nntalebbot)](https://twitter.com/nntalebbot
+- [Nassim Nicholas Taleb's Wisdom (@TalebWisdom)](https://x.com/talebwisdom
+  ) - Unofficial X account sharing Nassim Nicholas Taleb's wisdom from his books, interviews, and tweets
+- [The Black Swan Man (@black_swan_man)](https://x.com/black_swan_man
+  ) - X account sharing comics based on Nassim Nicholas Taleb's books
+- [Nassim Nicholas Taleb Bot (@nntalebbot)](https://x.com/nntalebbot
   ) - Unofficial bot that  scrapes highlights from @nntaleb’s Incerto collection
-- [N N Taleb's Probability Questions](https://www.youtube.com/@nntalebproba
-  ) - These are mini  MOOCs explaining technical points in Taleb's INCERTO (Antifragile, The Black  Swan, etc.). They are split into "Technical Notes" and  "Tutorials"
 
 ## Book Recommendations
 
@@ -236,103 +252,147 @@
 
 > List of podcasts where Nassim Nicholas Taleb was interviewed
 
-- [SophieCo. Visionaries: Nassim Taleb - Covid-19 brought socialism to America](https://soundcloud.com/rttv/sophieco-visionaries-nassim-taleb-covid-19-brought-socialism-to-america) - (2020/08)
-- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Pandemic](https://www.econtalk.org/nassim-nicholas-taleb-on-the-pandemic/) - (2020/07)
-- [The Beirut Banyan EPISODE 81: Nassim Nicholas Taleb & Local Solutions for Lebanon](https://soundcloud.com/thebeirutbanyan/episode-81-nassim-nicholas-taleb-local-structures-for-lebanon) - (2019/11)
-- [HumanCurrent Podcast: Probability & Adaptation. An Interview With Gad Saad & Nassim Nicholas Taleb](https://nassimtaleb.org/2018/08/podcast-probability-adaptation/) - (2018/08)
-- [The B&N Podcast: Nassim Nicholas Taleb](https://nassimtaleb.org/2018/09/podcast-barnes-and-noble/) - (2018/07)
-- [Likeville Podcast: A Celebration of What Works](https://nassimtaleb.org/2018/07/podcast-celebration-of-what-works-likeville/) - (2018/07)
-- [Ralph Nader Radio Hour: Skin in the Game](https://www.ralphnaderradiohour.com/p/skin-in-the-game-c7e) - (2018/06)
-- [Art of Manliness Podcast: Nassim Nicholas Taleb Interview](https://www.artofmanliness.com/articles/taleb-interview-skin-in-the-game/) - (2018/06)
-- [Conversations with Tyler: Nassim Nicholas Taleb on Self-Education and Doing the Math](https://soundcloud.com/conversationswithtyler/nassim-taleb-cowen-caplan) - (2018/05)
-- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on Rationality, Risk, and Skin in the Game](https://www.econtalk.org/nassim-nicholas-taleb-on-rationality-risk-and-skin-in-the-game/) - (2018/05)
-- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on Work, Slavery, the Minority Rule, and Skin in the Game](https://www.econtalk.org/nassim-nicholas-taleb-on-work-slavery-the-minority-rule-and-skin-in-the-game/) - (2017/08)
-- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Precautionary Principle and Genetically Modified Organisms](https://www.econtalk.org/nassim-nicholas-taleb-on-the-precautionary-principle-and-genetically-modified-organisms/) - (2015/01)
-- [James Altucher Show: EP.45 – Nassim Taleb: Why You Should Embrace Uncertainty](https://nassimtaleb.org/2014/09/podcast-nassim-taleb-james-altucher-show/) - (2014/09)
-- [EconTalk with Russ Roberts: Taleb on Skin in the Game](https://www.econtalk.org/taleb-on-skin-in-the-game/) - (2013/09)
-- [Reason Podcasts: Nassim Taleb Talks Antifragile, Libertarianism, and Capitalism's Genius for Failure](https://soundcloud.com/reasonmag/nassim-taleb-talks-antifragile-libertarianism-and-capitalisms-genius-for-failure) - (2013/01)
+- [Yeoman Podcast #36: Geoff Graham in conversation with Nassim Nicholas Taleb](https://yeomanpodcast.com/2026/08/07/nassim-taleb-36/) - (2026-08)
+- [Odd Lots: Eating Steak With Nassim Taleb and Charlie McElligott](https://www.bloomberg.com/news/audio/2025-07-06/odd-lots-eating-steak-with-nassim-taleb-and-charlie-mcelligott) - (2025-07)
+- [Odd Lots Live: Nassim Taleb on Living a Good Life in an Age of Volatility](https://www.bloomberg.com/news/audio/2025-07-04/nassim-taleb-on-how-to-live-a-good-life-odd-lots) - (2025-07)
+- [Ralph Nader Radio Hour: Cabinet of Curiosities](https://www.ralphnaderradiohour.com/p/cabinet-of-curiosities) - (2024-11)
+- [Bloomberg Talks: Nassim Taleb and Scott Patterson Talk Chaos Kings](https://www.bloomberg.com/news/audio/2024-09-27/bloomberg-talks-nassim-taleb-scott-patterson-podcast) - (2024-09)
+- [The Joe Walker Podcast #158: Nassim Taleb, Meditations on Extremistan](https://josephnoelwalker.com/nassim-taleb-158/) - (2024-09)
+- [The Tim Ferriss Show #691: Nassim Taleb and Scott Patterson](https://tim.blog/2023/09/08/nassim-nicholas-taleb/) - (2023-09)
+- [Odd Lots: Nassim Taleb on What Bitcoiners, Anti-Vaxxers, VCs and Deadlifters Are Getting Wrong](https://www.bloomberg.com/news/articles/2023-04-06/nassim-nicholas-taleb-on-bitcoin-vaccines-svb-stocks-and-risk) - (2023-04)
+- [The David McWilliams Podcast: Finding the optimal rate of progress, with Nassim Nicholas Taleb](https://www.goloudnow.com/podcasts/the-david-mcwilliams-podcast-577/finding-the-optimal-rate-of-progress-why-adapting-is-key-to-success-with-nassim-nicholas-taleb-375486) - (2022-11)
+- [EconTalk: Nassim Nicholas Taleb on the Nations, States, and Scale](https://www.econtalk.org/nassim-nicholas-taleb-on-the-nations-states-and-scale/) - (2022-07)
+- [The Stephen Wolfram Podcast: A conversation between Nassim Nicholas Taleb and Stephen Wolfram (2 parts)](https://podcasts.apple.com/us/podcast/a-conversation-between-nassim-nicholas-taleb/id1296350707?i=1000542880062) - (2021-11)
+- [SophieCo. Visionaries: Nassim Taleb - Covid-19 brought socialism to America](https://soundcloud.com/rttv/sophieco-visionaries-nassim-taleb-covid-19-brought-socialism-to-america) - (2020-08)
+- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Pandemic](https://www.econtalk.org/nassim-nicholas-taleb-on-the-pandemic/) - (2020-07)
+- [The Beirut Banyan EPISODE 81: Nassim Nicholas Taleb & Local Solutions for Lebanon](https://soundcloud.com/thebeirutbanyan/episode-81-nassim-nicholas-taleb-local-structures-for-lebanon) - (2019-11)
+- [HumanCurrent Podcast: Probability & Adaptation. An Interview With Gad Saad & Nassim Nicholas Taleb](https://nassimtaleb.org/2018/08/podcast-probability-adaptation/) - (2018-08)
+- [The B&N Podcast: Nassim Nicholas Taleb](https://nassimtaleb.org/2018/09/podcast-barnes-and-noble/) - (2018-07)
+- [Likeville Podcast: A Celebration of What Works](https://nassimtaleb.org/2018/07/podcast-celebration-of-what-works-likeville/) - (2018-07)
+- [Ralph Nader Radio Hour: Skin in the Game](https://www.ralphnaderradiohour.com/p/skin-in-the-game-c7e) - (2018-06)
+- [Art of Manliness Podcast: Nassim Nicholas Taleb Interview](https://www.artofmanliness.com/character/self-improvement/taleb-interview-skin-in-the-game/) - (2018-06)
+- [Conversations with Tyler: Nassim Nicholas Taleb on Self-Education and Doing the Math](https://soundcloud.com/conversationswithtyler/nassim-taleb-cowen-caplan) - (2018-05)
+- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on Rationality, Risk, and Skin in the Game](https://www.econtalk.org/nassim-nicholas-taleb-on-rationality-risk-and-skin-in-the-game/) - (2018-05)
+- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on Work, Slavery, the Minority Rule, and Skin in the Game](https://www.econtalk.org/nassim-nicholas-taleb-on-work-slavery-the-minority-rule-and-skin-in-the-game/) - (2017-08)
+- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Precautionary Principle and Genetically Modified Organisms](https://www.econtalk.org/nassim-nicholas-taleb-on-the-precautionary-principle-and-genetically-modified-organisms/) - (2015-01)
+- [James Altucher Show: EP.45 – Nassim Taleb: Why You Should Embrace Uncertainty](https://nassimtaleb.org/2014/09/podcast-nassim-taleb-james-altucher-show/) - (2014-09)
+- [EconTalk with Russ Roberts: Taleb on Skin in the Game](https://www.econtalk.org/taleb-on-skin-in-the-game/) - (2013-09)
+- [Reason Podcasts: Nassim Taleb Talks Antifragile, Libertarianism, and Capitalism's Genius for Failure](https://soundcloud.com/reasonmag/nassim-taleb-talks-antifragile-libertarianism-and-capitalisms-genius-for-failure) - (2013-01)
+- [Free Library of Philadelphia: Nassim Nicholas Taleb | Antifragile: Things That Gain from Disorder](https://libwww.freelibrary.org/podcast/episode/1045) - (2012-11)
 - [EconTalk with Russ Roberts: Taleb on Antifragility](https://www.econtalk.org/taleb-on-antifragility/) - (2012-01)
-- [Free Library of Philadelphia: Nassim Nicholas Taleb | Antifragile: Things That Gain from Disorder](https://libwww.freelibrary.org/podcast/episode/1045) - (2012/11)
-- [The Wharton School: Nassim Taleb on Living with Black Swans](https://knowledge.wharton.upenn.edu/article/nassim-taleb-on-living-with-black-swans/) - (2011/04)
+- [The Wharton School: Nassim Taleb on Living with Black Swans](https://knowledge.wharton.upenn.edu/article/nassim-taleb-on-living-with-black-swans/) - (2011-04)
 - [EconTalk with Russ Roberts: Taleb on Black Swans, Fragility, and Mistakes](https://www.econtalk.org/taleb-on-black-swans-fragility-and-mistakes/) - (2010-05)
-- [EconTalk with Russ Roberts: Taleb on the Financial Crisis](https://www.econtalk.org/taleb-on-the-financial-crisis/) - (2009/03)
-- [The Long Now Foundation: Nassim Nicholas Taleb - The Future Has Always Been Crazier Than We Thought](https://soundcloud.com/longnow/the-future-has-always-been-crazier-than-we-thought?in=longgamma/sets/nnt) - (2008/02)
-- [EconTalk with Russ Roberts: Taleb on Black Swans](https://www.econtalk.org/taleb-on-black-swans/) - (2007/04)
+- [EconTalk with Russ Roberts: Taleb on the Financial Crisis](https://www.econtalk.org/taleb-on-the-financial-crisis/) - (2009-03)
+- [The Long Now Foundation: Nassim Nicholas Taleb - The Future Has Always Been Crazier Than We Thought](https://soundcloud.com/longnow/the-future-has-always-been-crazier-than-we-thought?in=longgamma/sets/nnt) - (2008-02)
+- [EconTalk with Russ Roberts: Taleb on Black Swans](https://www.econtalk.org/taleb-on-black-swans/) - (2007-04)
 
 ## Videos
 
 > List of talks, lectures, and interviews where you can watch Nassim Nicholas Taleb
 
-- [Bloomberg: 'Black Swan' Investor Nassim Taleb on Covid Misconceptions, Fed Policy, Inflation](https://www.youtube.com/watch?v=ePmSa-n7kBA) - (2020/09)
-- [Cavaleria Com: The antidote for chaos! - Nassim Taleb Interview](https://www.youtube.com/watch?v=57wRZCaetY0) - (2020/09)
-- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Pandemic](https://www.youtube.com/watch?v=CyOsUbK8PiE) - (2020/07)
-- [New England Complex Systems Institute: EndCoronavirus org Town Hall with Nassim Taleb & Yaneer Bar-Yam on May 15, 2020](https://www.youtube.com/watch?v=2Al2UXwowvs) - (2020/05)
-- [ET NOW: Nassim Nicholas Taleb says, 'Likely to see the emergence of more and more viruses'](https://www.youtube.com/watch?v=43y0q0DH-Uc) - (2020/05)
-- [Tail risk of contagious diseases: a conversation with Nassim Nicholas Taleb](https://www.youtube.com/watch?v=sr0YIcp-zi0) - (2020/05)
-- [CNBC: 'Black Swan' author Nassim Taleb on warnings over systemic risks from global pandemics](https://www.youtube.com/watch?v=kixi_Ob4hCM) - (2020/04)
-- [Nassim Taleb Interview on Pandemics (2016)](https://www.youtube.com/watch?v=ytKwkOTAxaw) - (2020/04)
-- [Bloomberg: Nassim Taleb Says 'White Swan' Coronavirus Pandemic Was Preventable](https://www.youtube.com/watch?v=lBjVTm7F1lQ) - (2020/03)
-- [Bloomberg: Taleb Blames Government, Corporations for Not Being Prepeared for Pandemic](https://www.youtube.com/watch?v=Xv1m1X8IuAc) - (2020/03)
-- [Darwin College Lecture Series: Extreme events and how to live with them by Nassim Nicholas Taleb](https://www.youtube.com/watch?v=IsHNb-4IxDY) - (2020/02)
-- [Gillian Tett & Nassim Taleb at Greenwich Economic Forum](https://www.youtube.com/watch?v=2_8OGMzIpOU) - (2020/02)
-- [Nassim Nicholas Taleb speaks on "How India Can Achieve Anti-fragile Growth" | IEC 2019](https://www.youtube.com/watch?v=q0mjrNDe73E) - (2019/12)
-- [Why Nassim Taleb is still betting on crypto](https://www.youtube.com/watch?v=DUnclMrvLjQ) - (2019/12)
-- [Localism and its Application to Lebanon](https://www.youtube.com/watch?v=un9i-5pwOUA) - (2019/11)
-- [Studio Axess Idéspecial 2019 - Nassim Nicholas Taleb](https://www.youtube.com/watch?v=5CGKdmsPmXY) - (2019/11)
-- [EFN: Nassim Nicholas Taleb on Skin in the Game](https://www.youtube.com/watch?v=a3YOMe4PnKE) - (2019/10)
-- [Nassim Taleb Talk at a Conference in Brazil](https://youtu.be/y3LwEdNqu_U?t=295) - (2019/09)
-- [2035 University: Nassim Taleb and Dmitry Peskov. Debate about the risk-engineering, WorldSkills Conference](https://www.youtube.com/watch?v=XFryKZEGzVI&t=1010s) - (2019/08)
-- [Nassim Taleb at the 2018 Prime Quadrant Conference](https://www.youtube.com/watch?v=QX3k-u9_PeA) - (2019/04)
-- [Nassim Nicholas Taleb at ICCS 2018](https://www.youtube.com/watch?v=tD3JqtLEF1A) - (2019/02)
-- [RiskMindsTV: Nassim Nicholas Taleb: "you should study risk taking, not risk management"](https://www.youtube.com/watch?v=4P47UTF0tZA) - (2018/12)
-- [JLF at Boulder 2018: Skin in the Game](https://www.youtube.com/watch?v=XOkPiRDYgZ0) - (2018/12)
-- [Talks at Google: Nassim Nicholas Taleb: "Skin in the Game"](https://www.youtube.com/watch?v=uv6KLbkvua8) - (2018/11)
-- [#BLOCKCON: Fireside Chat: Nassim Nicholas Taleb & Naval Ravikant](https://www.youtube.com/watch?v=Da0aXfshlxM) - (2018/10)
-- [Bloomberg: Taleb Says World Is More Fragile Today Than in 2007](https://www.youtube.com/watch?v=62rfLjnPxKE) - (2018/10)
-- [Ron Paul Liberty Report: Nassim Nicholas Taleb Speech At RPI's Media & War Conference](https://www.youtube.com/watch?v=Dn_XEDPIeU8) - (2018/09)
-- [LinkedIn - Nassim Taleb](https://www.youtube.com/watch?v=n-iAzcgUPW4) - (2018/06)
-- [Ron Paul Liberty Report: 'Skin In The Game' - With Special Guest Nassim Nicholas Taleb](https://www.youtube.com/watch?v=SIi0eO_oN9U) - (2018/03)
-- [Bloomberg: Nassim Taleb Says Investors Need 'Insurance' From Market Drops](https://www.youtube.com/watch?v=vKBZ6po4oCE) - (2018/03)
-- [THE SAAD TRUTH #597: My Chat with Nassim Nicholas Taleb](https://www.youtube.com/watch?v=ezhjumayRsg) - (2018/02)
-- [Bloomberg: Nassim Taleb on Black Monday, Fed, Market Lessons](https://www.youtube.com/watch?v=C49cf9PPJfg) - (2017/10)
-- [Bloomberg: Nassim Taleb on His Black Monday Positions](https://www.youtube.com/watch?v=Mkr2sBeF0d4) - (2017/10)
-- [Problems with probability](https://www.youtube.com/watch?v=_Sy7NPVFx7k) - (2017/09)
-- [Bloomberg: Nassim Nicholas Taleb Sees Worse Tail Risks Than in 2007](https://www.youtube.com/watch?v=ASD1LJQzj5o) - (2017/03)
-- [India Today Conclave: A Session With Dr. Nassim Nicholas](https://www.youtube.com/watch?v=nhb3-sePQ7g) - (2017/02)
-- [Jaipur Literature Festival: Of Black Swans and Intellectual Fallacies](https://youtu.be/2_OjqsglRhU?t=48) - (2017/01)
-- [RiskMindsTV: Gerd Gigerenzer & Nassim Nicholas Taleb: The dichotomy of behavioural economics](https://youtu.be/4VSqfRnxvV8?t=2108) - (2016/12)
-- [Nutanix .NEXT 2016 Europe - Closing Keynote [Nassim N. Taleb]](https://www.youtube.com/watch?v=vmjoRMULLeQ) - (2016/11)
-- [Taleb Delivers Commencement Speech at American University of Beirut 2016](https://www.youtube.com/watch?v=Fzmr3urk28I) - (2016/06)
-- [Tail Risk Measurement Heuristics by Nassim Nicholas Taleb](https://www.youtube.com/watch?v=SEAcmRZUM5M) - (2016/02)
-- [Nassim Nicholas Taleb at the ET Global Business Summit](https://www.youtube.com/watch?v=dWnrrKJc0tg) - (2016/02)
-- [Keynote Address, 2015 Fletcher Conference on Managing Political Risk](https://youtu.be/QCGtfz6TtyU?t=179) - (2015/08)
-- [Nassim Nicholas Taleb interview | Tomorrow 2015](https://www.youtube.com/watch?v=P71YUXLNveE) - (2015/06)
-- [Nassim Taleb: Small is Beautiful - but Also Less Fragile](https://www.youtube.com/watch?v=xyXwrpmt0zk) - (2014/12)
-- [The New Yorker: Financial Collapse: A Panel with Nassim N. Taleb & Robert Shiller](https://www.youtube.com/watch?v=AcTvkt8k0sE) - (2014/07)
-- [The 2008 financial crisis and the economy - The New Yorker Festival](https://www.youtube.com/watch?v=Y_NqImYe3eI) - (2014/07)
-- [Nassim Taleb lectures at National Science Foundation](https://www.youtube.com/watch?v=omsYJBMoIJU) - (2013/10)
-- [Nassim Nicholas Taleb (and Rory Sutherland) - Nudgestock](https://www.youtube.com/watch?v=Wk0P663WQ2Y) - (2013/05)
-- [Stanford Seminar - Entrepreneurial Thought Leaders: Nassim Taleb](https://www.youtube.com/watch?v=c6sX5MSdLag) - (2013/04)
-- [Nassim Nicholas Taleb: How to Live in a World we Don't Understand](https://www.youtube.com/watch?v=iEnmjMgP_Jo) - (2013/04)
-- [Nassim Taleb and Daniel Kahneman discusses Antifragility at NYPL](https://www.youtube.com/watch?v=MMBclvY_EMA) - (2013/02)
-- [Talks at Google - Nassim Nicholas Taleb](https://www.youtube.com/watch?v=S3REdLZ8Xis) - (2013/01)
-- [ReasonTV: Nassim Taleb Talks Antifragile, Libertarianism, and Capitalism's Genius for Failure](https://www.youtube.com/watch?v=ehXxoUH1AlM) - (2013/01)
-- [The RSA: Antifragile - Nassim Nicholas Taleb](https://www.youtube.com/watch?v=k4MhC5tcEv0) - (2013/01)
-- [The Motley Fool: Nassim Taleb on the Benefits of Uncertainty](https://www.youtube.com/watch?v=Xtsyxtx6r30) - (2012/12)
-- [Penguin Books UK: Nassim Nicholas Taleb explains Antifragile](https://www.youtube.com/watch?v=1NXaafTpVjM) - (2012/11)
-- [WGBHForum: Nassim Nicholas Taleb - The Black Swan: The Impact of the Highly Improbable](https://www.youtube.com/watch?v=3e6UKCJt-g8) - (2012/09)
-- [Woodrow Wilson School of Public and International Affairs: Nassim Taleb - "The Black Swan"](https://www.youtube.com/watch?v=33kET2YPWls) - (2012/04)
-- [Bloomberg: Nassim Taleb Discusses `Fragility' in Banking System](https://www.youtube.com/watch?v=OuGxlJy6Wws) - (2012/03)
-- [Bloomberg: Taleb Says Bernanke Doesn't Understand Risks of QE2](https://www.youtube.com/watch?v=dZLQW_i0zVU) - (2012/03)
-- [Nassim Nicholas Taleb ZURICH.MINDS. Talk with Rolf Dobelli](https://www.youtube.com/watch?v=zOUph1JpLlk) - (2012/01)
-- [The RSA: The Predictability of Unpredictability](https://www.youtube.com/watch?v=g0ShuJ5Maz8) - (2012/01)
-- [Nassim Nicholas Taleb - India Today Conclave 2010 - Part2](https://www.youtube.com/watch?v=Z4jkU2SdVDk) - (2011/03)
-- [TIME: 10 Questions for Nassim Taleb](https://www.youtube.com/watch?v=E3bu_7Bfatg) - (2010/12)
-- [The RSA: David Cameron in conversation with Nassim Taleb](https://www.youtube.com/watch?v=QQAVDg4yqUU) - (2010/02)
-- [Alan Grayson and Nassim Taleb Talk Punishment](https://www.youtube.com/watch?v=QV814EimkkU) - (2009/09)
-- [Reflection on a Crisis (John Brockman, Nassim Taleb, Daniel Kahneman)](https://youtu.be/LjGl6bZF6zs?t=401) - (2009/02)
-- [The Long Now Foundation: Nassim Nicholas Taleb - The Future Has Always Been Crazier Than We Thought](https://www.youtube.com/watch?v=Qxvgm17COj4) - (2008/02)
-- [Nassim Nicholas Taleb - Early Interview](https://www.youtube.com/watch?v=0YaUIPbw-5w) - (2001/03)
+- [Bloomberg: Nassim Taleb Calls Stocks a 'Trap,' Sees 'Naive' AI Investors](https://www.bloomberg.com/news/videos/2026-10-06/taleb-calls-stocks-a-trap-sees-naive-ai-investors-video) - (2026-10)
+- [QED Conference 2026: Nassim Nicholas Taleb x CROZ, Walk your Talk (interview)](https://www.youtube.com/watch?v=X_jKx5Yk4Q4) - (2026-06)
+- [Bloomberg: Nassim Taleb Warns About Software Bankruptcies, Volatility](https://www.bloomberg.com/news/videos/2026-02-23/nassim-taleb-warns-on-software-bankruptcies-volatility-video) - (2026-02)
+- [A Conversation with Nassim Taleb on the Risks of Cancer and Heart Disease](https://www.youtube.com/watch?v=ph2ZeNooFLg) - (2025-10)
+- [Bloomberg: Taleb Warns to Hedge Against Crash as Debt Crisis Looms](https://www.bloomberg.com/news/videos/2025-10-10/taleb-warns-to-hedge-against-crash-as-debt-crisis-looms-video) - (2025-10)
+- [Building Antifragile Systems: Nassim Nicholas Taleb on Debt, AI, and the New Global Order](https://www.youtube.com/watch?v=Pz2EUx_WNkE) - (2025-09)
+- [Nassim Nicholas Taleb at RPI Blueprint for Peace 2025: The World in Which We Live Now](https://www.youtube.com/watch?v=C9sruW_scHA) - (2025-08)
+- [Stephen Wolfram visits RWRI 20 (Real World Risk Summer School, 2025)](https://www.youtube.com/watch?v=pve8TYM7fbA) - (2025-07)
+- [Bloomberg: Nassim Taleb on Risks, Gold, Private Markets, Trump Tariffs](https://www.youtube.com/watch?v=7nL3bDaUSZw) - (2025-06)
+- [Discussion with Pierre Zalloua on 'Ancestors'](https://www.youtube.com/watch?v=KOv97-Z-VhM) - (2025-04)
+- [Bloomberg: Nassim Taleb Says Nvidia Rout 'Is the Beginning'](https://www.youtube.com/watch?v=cidH25tVggQ) - (2025-01)
+- [Fragility, Robustness, and Antifragility (lecture, AUB)](https://www.youtube.com/watch?v=6kVgIfMMeWM) - (2024-12)
+- [entArabi: The Philosophy of Uncertainty, interview with Taleb at the Megacampus Conference](https://entarabi.com/en/2024/12/the-philosophy-of-uncertainty-an-interview-with-dr-nassim-nicholas-taleb-on-life-and-the-global-economy/) - (2024-12)
+- [Bloomberg: Taleb on Fragility of Markets, Political Risk, AI](https://www.bloomberg.com/news/videos/2024-10-11/taleb-on-fragility-of-markets-political-risk-ai-video) - (2024-10)
+- [CNBC: Nassim Taleb on Bitcoin, Not a Hedge Against Market Sell-Offs](https://www.youtube.com/watch?v=Mib9r7jINW0) - (2024-08)
+- [A Discussion with Scott Patterson on Chaos Kings (4 parts)](https://www.youtube.com/watch?v=VuoCxJ9y8-0) - (2024-07)
+- [Stephen Wolfram visits RWRI 19 (Summer School 2024)](https://www.youtube.com/watch?v=MKWyx7Mw_rQ) - (2024-07)
+- [CNBC: full interview with The Black Swan author Nassim Nicholas Taleb (The Exchange)](https://www.cnbc.com/video/2024/05/20/watch-cnbcs-full-interview-with-the-black-swan-author-nassim-nicholas-taleb.html) - (2024-05)
+- [Investment, Hedging, and Mishedging, AIM Summit London 2024](https://www.youtube.com/watch?v=ZhABVnWsHa8) - (2024-05)
+- [How the Social Fabric Works: A Conversation with Nassim Nicholas Taleb](https://www.youtube.com/watch?v=YgHQZH_49cI) - (2023-12)
+- [Lurer: Interview with Nassim Nicholas Taleb on effective governance of small states](https://www.youtube.com/watch?v=s2JZuGS4bcA) - (2023-12)
+- [Nassim Nicholas Taleb: Connectivity, Global Fragility and the Added Danger of AI](https://www.youtube.com/watch?v=mVCxfrSMnMQ) - (2023-10)
+- [Bloomberg Invest 2023: Universa's Taleb on Inflation, Global Financial Markets and Crypto](https://www.youtube.com/watch?v=mYUjqXAv2iU) - (2023-06)
+- [CNBC: Taleb on crypto, 'a cult coupled with a financial instrument'](https://www.youtube.com/watch?v=td00DJokmAk) - (2023-06)
+- [Bloomberg: Black Swan Author Taleb on Markets, Interest Rates, Bubbles, Investing](https://www.youtube.com/watch?v=sDBz_bcHUqk) - (2023-01)
+- [Nassim and Yaneer Bar-Yam discuss the COVID situation, with some disagreements](https://www.youtube.com/watch?v=VHYp15Ya1wk) - (2022-01)
+- [A conversation between Nassim Nicholas Taleb and Stephen Wolfram, Wolfram Summer School 2021](https://www.youtube.com/watch?v=_8j1XZ0N_wE) - (2021-07)
+- [Keynote at the CoinGeek Conference 2021 (Zurich)](https://www.youtube.com/watch?v=lQuldLZFNp8&t=23897s) - (2021-06)
+- [CNBC Squawk Box: Taleb calls Bitcoin a 'gimmick' that resembles a Ponzi scheme](https://www.youtube.com/watch?v=kPjdg6Igr2c) - (2021-04)
+- [CNBC Squawk Box: Global coronavirus response, a case study of government incompetence](https://www.youtube.com/watch?v=sYrRZiAdrys) - (2020-11)
+- [Nassim and Yaneer Bar-Yam discuss the Danish Study on Face Masks](https://www.youtube.com/watch?v=JVqr0YhYIsU) - (2020-11)
+- [enlightED 2020: Nassim Taleb in conversation with Teresa Martín-Retortillo](https://www.youtube.com/watch?v=plim7AQU6Fw&t=766s) - (2020-10)
+- [Bloomberg: 'Black Swan' Investor Nassim Taleb on Covid Misconceptions, Fed Policy, Inflation](https://www.youtube.com/watch?v=ePmSa-n7kBA) - (2020-09)
+- [Cavaleria Com: The antidote for chaos! - Nassim Taleb Interview](https://www.youtube.com/watch?v=57wRZCaetY0) - (2020-09)
+- [EconTalk with Russ Roberts: Nassim Nicholas Taleb on the Pandemic](https://www.youtube.com/watch?v=CyOsUbK8PiE) - (2020-07)
+- [New England Complex Systems Institute: EndCoronavirus org Town Hall with Nassim Taleb & Yaneer Bar-Yam on May 15, 2020](https://www.youtube.com/watch?v=2Al2UXwowvs) - (2020-05)
+- [ET NOW: Nassim Nicholas Taleb says, 'Likely to see the emergence of more and more viruses'](https://www.youtube.com/watch?v=43y0q0DH-Uc) - (2020-05)
+- [Tail risk of contagious diseases: a conversation with Nassim Nicholas Taleb](https://www.youtube.com/watch?v=sr0YIcp-zi0) - (2020-05)
+- [CNBC: 'Black Swan' author Nassim Taleb on warnings over systemic risks from global pandemics](https://www.youtube.com/watch?v=kixi_Ob4hCM) - (2020-04)
+- [Nassim Taleb Interview on Pandemics](https://www.youtube.com/watch?v=ytKwkOTAxaw) - (2020-04)
+- [Bloomberg: Nassim Taleb Says 'White Swan' Coronavirus Pandemic Was Preventable](https://www.youtube.com/watch?v=lBjVTm7F1lQ) - (2020-03)
+- [Bloomberg: Taleb Blames Government, Corporations for Not Being Prepeared for Pandemic](https://www.youtube.com/watch?v=Xv1m1X8IuAc) - (2020-03)
+- [Bloomberg: Taleb Says Portfolios to 'Blow Up' Without Tail Hedges / The Corona Crisis Is Not a Black Swan](https://www.bloomberg.com/news/articles/2020-03-30/taleb-says-portfolios-to-blow-up-without-tail-hedges) - (2020-03)
+- [Darwin College Lecture Series: Extreme events and how to live with them by Nassim Nicholas Taleb](https://www.youtube.com/watch?v=IsHNb-4IxDY) - (2020-02)
+- [Gillian Tett & Nassim Taleb at Greenwich Economic Forum](https://www.youtube.com/watch?v=2_8OGMzIpOU) - (2020-02)
+- [Nassim Nicholas Taleb speaks on "How India Can Achieve Anti-fragile Growth" | IEC 2019](https://www.youtube.com/watch?v=q0mjrNDe73E) - (2019-12)
+- [Why Nassim Taleb is still betting on crypto (2019 view)](https://www.youtube.com/watch?v=DUnclMrvLjQ) - (2019-12)
+- [Localism and its Application to Lebanon](https://www.youtube.com/watch?v=un9i-5pwOUA) - (2019-11)
+- [Studio Axess Idéspecial 2019 - Nassim Nicholas Taleb](https://www.youtube.com/watch?v=5CGKdmsPmXY) - (2019-11)
+- [EFN: Nassim Nicholas Taleb on Skin in the Game](https://www.youtube.com/watch?v=a3YOMe4PnKE) - (2019-10)
+- [Nassim Taleb Talk at a Conference in Brazil](https://youtu.be/y3LwEdNqu_U?t=295) - (2019-09)
+- [2035 University: Nassim Taleb and Dmitry Peskov. Debate about the risk-engineering, WorldSkills Conference](https://www.youtube.com/watch?v=XFryKZEGzVI&t=1010s) - (2019-08)
+- [Nassim Taleb at the 2018 Prime Quadrant Conference](https://www.youtube.com/watch?v=QX3k-u9_PeA) - (2019-04)
+- [Nassim Nicholas Taleb at ICCS 2018](https://www.youtube.com/watch?v=tD3JqtLEF1A) - (2019-02)
+- [RiskMindsTV: Nassim Nicholas Taleb: "you should study risk taking, not risk management"](https://www.youtube.com/watch?v=4P47UTF0tZA) - (2018-12)
+- [JLF at Boulder 2018: Skin in the Game](https://www.youtube.com/watch?v=XOkPiRDYgZ0) - (2018-12)
+- [Talks at Google: Nassim Nicholas Taleb: "Skin in the Game"](https://www.youtube.com/watch?v=uv6KLbkvua8) - (2018-11)
+- [#BLOCKCON: Fireside Chat: Nassim Nicholas Taleb & Naval Ravikant](https://www.youtube.com/watch?v=Da0aXfshlxM) - (2018-10)
+- [Bloomberg: Taleb Says World Is More Fragile Today Than in 2007](https://www.youtube.com/watch?v=62rfLjnPxKE) - (2018-10)
+- [Ron Paul Liberty Report: Nassim Nicholas Taleb Speech At RPI's Media & War Conference](https://www.youtube.com/watch?v=Dn_XEDPIeU8) - (2018-09)
+- [LinkedIn - Nassim Taleb](https://www.youtube.com/watch?v=n-iAzcgUPW4) - (2018-06)
+- [Ron Paul Liberty Report: 'Skin In The Game' - With Special Guest Nassim Nicholas Taleb](https://www.youtube.com/watch?v=SIi0eO_oN9U) - (2018-03)
+- [Bloomberg: Nassim Taleb Says Investors Need 'Insurance' From Market Drops](https://www.youtube.com/watch?v=vKBZ6po4oCE) - (2018-03)
+- [THE SAAD TRUTH #597: My Chat with Nassim Nicholas Taleb](https://www.youtube.com/watch?v=ezhjumayRsg) - (2018-02)
+- [Bloomberg: Nassim Taleb on Black Monday, Fed, Market Lessons](https://www.youtube.com/watch?v=C49cf9PPJfg) - (2017-10)
+- [Bloomberg: Nassim Taleb on His Black Monday Positions](https://www.youtube.com/watch?v=Mkr2sBeF0d4) - (2017-10)
+- [Problems with probability](https://www.youtube.com/watch?v=_Sy7NPVFx7k) - (2017-09)
+- [Bloomberg: Nassim Nicholas Taleb Sees Worse Tail Risks Than in 2007](https://www.youtube.com/watch?v=ASD1LJQzj5o) - (2017-03)
+- [India Today Conclave: A Session With Dr. Nassim Nicholas](https://www.youtube.com/watch?v=nhb3-sePQ7g) - (2017-02)
+- [Jaipur Literature Festival: Of Black Swans and Intellectual Fallacies](https://youtu.be/2_OjqsglRhU?t=48) - (2017-01)
+- [RiskMindsTV: Gerd Gigerenzer & Nassim Nicholas Taleb: The dichotomy of behavioural economics](https://youtu.be/4VSqfRnxvV8?t=2108) - (2016-12)
+- [Nutanix .NEXT 2016 Europe - Closing Keynote [Nassim N. Taleb]](https://www.youtube.com/watch?v=vmjoRMULLeQ) - (2016-11)
+- [Taleb Delivers Commencement Speech at American University of Beirut 2016](https://www.youtube.com/watch?v=Fzmr3urk28I) - (2016-06)
+- [Tail Risk Measurement Heuristics by Nassim Nicholas Taleb](https://www.youtube.com/watch?v=SEAcmRZUM5M) - (2016-02)
+- [Nassim Nicholas Taleb at the ET Global Business Summit](https://www.youtube.com/watch?v=dWnrrKJc0tg) - (2016-02)
+- [Keynote Address, 2015 Fletcher Conference on Managing Political Risk](https://youtu.be/QCGtfz6TtyU?t=179) - (2015-08)
+- [Nassim Nicholas Taleb interview | Tomorrow 2015](https://www.youtube.com/watch?v=P71YUXLNveE) - (2015-06)
+- [Nassim Taleb: Small is Beautiful - but Also Less Fragile](https://www.youtube.com/watch?v=xyXwrpmt0zk) - (2014-12)
+- [The New Yorker: Financial Collapse: A Panel with Nassim N. Taleb & Robert Shiller](https://www.youtube.com/watch?v=AcTvkt8k0sE) - (2014-07)
+- [The 2008 financial crisis and the economy - The New Yorker Festival](https://www.youtube.com/watch?v=Y_NqImYe3eI) - (2014-07)
+- [Nassim Taleb lectures at National Science Foundation](https://www.youtube.com/watch?v=omsYJBMoIJU) - (2013-10)
+- [Nassim Nicholas Taleb (and Rory Sutherland) - Nudgestock](https://www.youtube.com/watch?v=Wk0P663WQ2Y) - (2013-05)
+- [Stanford Seminar - Entrepreneurial Thought Leaders: Nassim Taleb](https://www.youtube.com/watch?v=c6sX5MSdLag) - (2013-04)
+- [Nassim Nicholas Taleb: How to Live in a World we Don't Understand](https://www.youtube.com/watch?v=iEnmjMgP_Jo) - (2013-04)
+- [Nassim Taleb and Daniel Kahneman discusses Antifragility at NYPL](https://www.youtube.com/watch?v=MMBclvY_EMA) - (2013-02)
+- [Talks at Google - Nassim Nicholas Taleb](https://www.youtube.com/watch?v=S3REdLZ8Xis) - (2013-01)
+- [ReasonTV: Nassim Taleb Talks Antifragile, Libertarianism, and Capitalism's Genius for Failure](https://www.youtube.com/watch?v=ehXxoUH1AlM) - (2013-01)
+- [The RSA: Antifragile - Nassim Nicholas Taleb](https://www.youtube.com/watch?v=k4MhC5tcEv0) - (2013-01)
+- [The Motley Fool: Nassim Taleb on the Benefits of Uncertainty](https://www.youtube.com/watch?v=Xtsyxtx6r30) - (2012-12)
+- [Penguin Books UK: Nassim Nicholas Taleb explains Antifragile](https://www.youtube.com/watch?v=1NXaafTpVjM) - (2012-11)
+- [WGBHForum: Nassim Nicholas Taleb - The Black Swan: The Impact of the Highly Improbable](https://www.youtube.com/watch?v=3e6UKCJt-g8) - (2012-09)
+- [Woodrow Wilson School of Public and International Affairs: Nassim Taleb - "The Black Swan"](https://www.youtube.com/watch?v=33kET2YPWls) - (2012-04)
+- [Bloomberg: Nassim Taleb Discusses `Fragility' in Banking System](https://www.youtube.com/watch?v=OuGxlJy6Wws) - (2012-03)
+- [Bloomberg: Taleb Says Bernanke Doesn't Understand Risks of QE2](https://www.youtube.com/watch?v=dZLQW_i0zVU) - (2012-03)
+- [Nassim Nicholas Taleb ZURICH.MINDS. Talk with Rolf Dobelli](https://www.youtube.com/watch?v=zOUph1JpLlk) - (2012-01)
+- [The RSA: The Predictability of Unpredictability](https://www.youtube.com/watch?v=g0ShuJ5Maz8) - (2012-01)
+- [Nassim Nicholas Taleb - India Today Conclave 2010 - Part2](https://www.youtube.com/watch?v=Z4jkU2SdVDk) - (2011-03)
+- [TIME: 10 Questions for Nassim Taleb](https://www.youtube.com/watch?v=E3bu_7Bfatg) - (2010-12)
+- [The RSA: David Cameron in conversation with Nassim Taleb](https://www.youtube.com/watch?v=QQAVDg4yqUU) - (2010-02)
+- [Alan Grayson and Nassim Taleb Talk Punishment](https://www.youtube.com/watch?v=QV814EimkkU) - (2009-09)
+- [Reflection on a Crisis (John Brockman, Nassim Taleb, Daniel Kahneman)](https://youtu.be/LjGl6bZF6zs?t=401) - (2009-02)
+- [The Long Now Foundation: Nassim Nicholas Taleb - The Future Has Always Been Crazier Than We Thought](https://www.youtube.com/watch?v=Qxvgm17COj4) - (2008-02)
+- [Nassim Nicholas Taleb - Early Interview](https://www.youtube.com/watch?v=0YaUIPbw-5w) - (2001-03)
 
 ## Miscellaneous
 
