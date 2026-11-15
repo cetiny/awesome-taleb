@@ -3,8 +3,8 @@
 > A curated list of awesome things about Nassim Nicholas Taleb
 
 <p align="left">
-  <a href="https://twitter.com/talebwisdom" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/talebwisdom.svg?logo=twitter">
+  <a href="https://x.com/talebwisdom" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/talebwisdom.svg?logo=x">
   </a>
 </p>
 
@@ -73,15 +73,15 @@
 
 > list of official and unofficial social media accounts
 
-- [Nassim Nicholas Taleb - Twitter (@nntaleb)](https://twitter.com/nntaleb
-  ) - Nassim Nicholas  Taleb's Official Twitter Page
+- [Nassim Nicholas Taleb - X (@nntaleb)](https://x.com/nntaleb
+  ) - Nassim Nicholas  Taleb's Official X Page
 - [Nassim Nicholas Taleb - Facebook (@nntaleb)](https://www.facebook.com/nntaleb/
   ) - Nassim Nicholas  Taleb's Official Facebook Page
-- [Nassim Nicholas Taleb's Wisdom (@TalebWisdom)](https://twitter.com/talebwisdom
-  ) - Unofficial Twitter  account sharing Nassim Nicholas Taleb's wisdom from his books, interviews, and tweets
-- [The Black Swan Man (@black_swan_man)](https://twitter.com/black_swan_man
-  ) - Twitter  account sharing comics based on Nassim Nicholas Taleb's books
-- [Nassim Nicholas Taleb Bot (@nntalebbot)](https://twitter.com/nntalebbot
+- [Nassim Nicholas Taleb's Wisdom (@TalebWisdom)](https://x.com/talebwisdom
+  ) - Unofficial X account sharing Nassim Nicholas Taleb's wisdom from his books, interviews, and tweets
+- [The Black Swan Man (@black_swan_man)](https://x.com/black_swan_man
+  ) - X account sharing comics based on Nassim Nicholas Taleb's books
+- [Nassim Nicholas Taleb Bot (@nntalebbot)](https://x.com/nntalebbot
   ) - Unofficial bot that  scrapes highlights from @nntaleb’s Incerto collection
 - [N N Taleb's Probability Questions](https://www.youtube.com/@nntalebproba
   ) - These are mini  MOOCs explaining technical points in Taleb's INCERTO (Antifragile, The Black  Swan, etc.). They are split into "Technical Notes" and  "Tutorials"
