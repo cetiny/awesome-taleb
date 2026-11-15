@@ -72,7 +72,7 @@ Updated: November 2026
 - [Incerto (Deluxe Edition): Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile, Skin in the Game](https://amzn.to/2sNYedi) - (2019)
 - [The Technical Incerto - Vol 1: Statistical Consequences of Fat Tails (Revised Edition, print)](https://link.amazon/B0dMAXttk) - (2023)
 - [The Technical Incerto - Vol 1: Statistical Consequences of Fat Tails (3rd revised edition, free on arXiv)](https://arxiv.org/abs/2001.10488) - (2025)
-- [The Technical Incerto - Vol 2: Probability, Risk, and Convexity (in progress)](https://nassimtaleb.org/2025/10/volume-2-technical-incerto/) - (in progress)
+- [The Technical Incerto - Vol 2: Probability, Risk, and Convexity (in progress)](https://x.com/nntaleb/status/1974816353933570212) - (in progress)
 
 ## Social Media
 
