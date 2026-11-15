@@ -62,7 +62,7 @@
 - [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://amzn.to/34Lp7fz) - (2001)
 - [The Black Swan: Second Edition: The Impact of the Highly Improbable](https://amzn.to/2PEQQdq) - (2007)
 - [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://amzn.to/2Z9zKHR) - (2010)
-- [Antifragile: Things That Gain from Disorder](https://amzn.to/34M1KT6) - (2014)
+- [Antifragile: Things That Gain from Disorder](https://amzn.to/34M1KT6) - (2012)
 - [Incerto: Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile](https://amzn.to/2Z72pND) - (2016)
 - [Skin in the Game: Hidden Asymmetries in Daily Life](https://amzn.to/35HbwqD) - (2018)
 - [Incerto (Deluxe Edition): Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile, Skin in the Game](https://amzn.to/2sNYedi) - (2019)
