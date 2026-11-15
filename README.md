@@ -66,8 +66,8 @@
 - [Incerto: Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile](https://amzn.to/2Z72pND) - (2016)
 - [Skin in the Game: Hidden Asymmetries in Daily Life](https://amzn.to/35HbwqD) - (2018)
 - [Incerto (Deluxe Edition): Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile, Skin in the Game](https://amzn.to/2sNYedi) - (2019)
-- [The Technical Incerto - Vol 1: The Statistical Consequences of Fat Tails](https://www.academia.edu/37221402/STATISTICAL_CONSEQUENCES_OF_FAT_TAILS_TECHNICAL_INCERTO_COLLECTION_) - (2019)
-- [The Technical Incerto - Vol 2: Fragility, Risk, and Convexity](https://www.dropbox.com/s/hslpj8xcqtszmvv/Technical%20Incerto%20Vol%202.pdf?dl=0) - (2020)
+- [The Technical Incerto - Vol 1: Statistical Consequences of Fat Tails (3rd revised edition, free on arXiv)](https://arxiv.org/abs/2001.10488) - (2025)
+- [The Technical Incerto - Vol 2: Probability, Risk, and Convexity (in progress)](https://nassimtaleb.org/2025/10/volume-2-technical-incerto/) - (in progress)
 
 ## Social Media
 
