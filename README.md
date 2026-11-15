@@ -2,6 +2,10 @@
 
 > A curated list of awesome things about Nassim Nicholas Taleb
 
+Unofficial fan-made list. Not affiliated with or endorsed by Nassim Nicholas Taleb.
+
+Updated: November 2026
+
 <p align="left">
   <a href="https://x.com/talebwisdom" target="_blank">
     <img src="https://img.shields.io/twitter/follow/talebwisdom.svg?logo=x">
