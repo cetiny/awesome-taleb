@@ -248,7 +248,7 @@ Updated: November 2026
 - [The B&N Podcast: Nassim Nicholas Taleb](https://nassimtaleb.org/2018/09/podcast-barnes-and-noble/) - (2018-07)
 - [Likeville Podcast: A Celebration of What Works](https://nassimtaleb.org/2018/07/podcast-celebration-of-what-works-likeville/) - (2018-07)
 - [Ralph Nader Radio Hour: Skin in the Game](https://www.ralphnaderradiohour.com/p/skin-in-the-game-c7e) - (2018-06)
-- [Art of Manliness Podcast: Nassim Nicholas Taleb Interview](https://www.artofmanliness.com/articles/taleb-interview-skin-in-the-game/) - (2018-06)
+- [Art of Manliness Podcast: Nassim Nicholas Taleb Interview](https://www.artofmanliness.com/character/self-improvement/taleb-interview-skin-in-the-game/) - (2018-06)
 - [Conversations with Tyler: Nassim Nicholas Taleb on Self-Education and Doing the Math](https://soundcloud.com/conversationswithtyler/nassim-taleb-cowen-caplan) - (2018-05)
 - [EconTalk with Russ Roberts: Nassim Nicholas Taleb on Rationality, Risk, and Skin in the Game](https://www.econtalk.org/nassim-nicholas-taleb-on-rationality-risk-and-skin-in-the-game/) - (2018-05)
 - [EconTalk with Russ Roberts: Nassim Nicholas Taleb on Work, Slavery, the Minority Rule, and Skin in the Game](https://www.econtalk.org/nassim-nicholas-taleb-on-work-slavery-the-minority-rule-and-skin-in-the-game/) - (2017-08)
