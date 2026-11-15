@@ -21,6 +21,7 @@
   - [History](#history)
   - [Politics, Humanities & Social Sciences](#politics-humanities-and-social-sciences)
   - [Science & Math](#science-and-math)
+  - [Literature & Fiction](#literature-and-fiction)
   - [Others](#others)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
