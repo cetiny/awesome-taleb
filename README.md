@@ -9,7 +9,7 @@ Updated: November 2026
 > **What's new in 1.5**
 >
 > - 11 new podcasts and 33 new videos, 2020 to 2026
-> - Added Taleb's Substack, his arXiv author page and the Medium lecture text
+> - Added Taleb's Substack and his arXiv author page
 > - *Statistical Consequences of Fat Tails* now links to arXiv (3rd edition) and print
 > - Dead links fixed, dates unified to YYYY-MM, profile links moved to x.com
 > - The Probability Questions channel moved from Social Media to Websites
@@ -68,7 +68,6 @@ Updated: November 2026
 - [N N Taleb's Probability Questions](https://www.youtube.com/@nntalebproba) - Mini MOOCs explaining technical points in Taleb's Incerto, split into "Technical Notes" and "Tutorials"
 - [Nassim Nicholas Taleb - Substack](https://nntaleb.substack.com) - Taleb's Substack with new essays
 - [Nassim Nicholas Taleb - arXiv](https://arxiv.org/a/taleb_n_1) - Author listing of Taleb's papers on arXiv
-- [The World in Which We Live Now](https://nntaleb.medium.com/the-world-in-which-we-live-7255aad3e18c) - Lecture text on Medium (2025-09)
 
 ## Books
 
