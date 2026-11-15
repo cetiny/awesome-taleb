@@ -41,7 +41,7 @@ Updated: November 2026
 
 - [Fooled by Randomness](https://www.fooledbyrandomness.com/
   ) - Nassim Nicholas Taleb's Official Home Page
-- [Nassim Nicholas Taleb - Medium](https://medium.com/@nntaleb
+- [Nassim Nicholas Taleb - Medium](https://nntaleb.medium.com/
   ) - Nassim Nicholas Taleb's Official Medium Page
 - [Real World Risk Institute](https://realworldrisk.com/
   ) - An institute led by Nassim Taleb. The aim is to build the principles and methodology for real-world rigor in decision making and codify a clear-cut way to approach risk.
